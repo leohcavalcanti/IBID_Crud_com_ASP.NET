@@ -13,4 +13,4 @@ Criação de um projeto de eventos.
 - Cadastro de palestrantes
 
 ## Tecnologia instaladas(NuGet)
-<img src="" alt="Tecnologia instaladas(NuGet)"/>
+<img src="/IBIDCrud/assets/NuGet Instalado.png" alt="Tecnologia instaladas(NuGet)"/>
